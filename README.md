@@ -1,6 +1,12 @@
 # Reno Davids 🐉
 
 **`Software Engineer / Full-Stack Engineer`**
+
+I am a creative coder who is always learning new ways to make complex problems into simple solutions. I work hard as well as play hard, life is too short to not go to the club with the homies.
+
+I am a grounded individual with great social skills
+
+Background:
 Born and raised in Johannesburg South Africa 🇿🇦 since 1997.  I have always been drawn to computers since I was a young age of 6 years old. Whether it would be playing Counter Strike Source with my cousins at their LAN parties or learning every corner of how Windows XP work, I would always find myself in front of a computer screen being entertained for hours. 
 
 Soon enough at the age of 12 I was given my first ever computer for my birthday and officially became the family house IT geek to fix any issues related to the internet or with my family computer. 
