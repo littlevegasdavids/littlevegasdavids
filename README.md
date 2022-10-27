@@ -33,7 +33,7 @@ I am a creative coder who is always learning new ways to make complex problems i
 <ul>
   <li>I love playing a well made video game on my PC, especially Dota 2.</li>
   <li>I am a film nerd and film encyclopedia. My favourite films are Memento, Night Crawler and Sicario. My favourite actor is Jake Gyllenhaal.</li>
-  <li>I am a Uber-Fan of Survivor. I will Outwit, Outplay and Outlast one day🔥.</li>
+  <li>I am a über-fan of Survivor. I will Outwit, Outplay and Outlast one day🔥.</li>
   <li>I love a good party and festival. Work hard and play harder, life's too short to not have a good time with the homies.</li>
   <li>I have a alter-ego called <a href="https://soundcloud.com/dejagatsby">Déjà Gatsby</a> who is my creative outlet for music.</li>
   <li>Quotes I live by:</li>
