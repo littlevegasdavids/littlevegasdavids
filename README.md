@@ -27,7 +27,6 @@ I am a creative coder who is always learning new ways to make complex problems i
   <li>I have a solution focused attitude while being self-directed and self-monitored.</li>
   <li>I am very flexible when it comes to dealing with unknown situations that arise in my work and personal life.</li>
   <li>I am patient and grounded individual who deals with people in a very diplomatic way.</li>
-  <li>I am a very loyal and kind person but if one were to take advantage of my kindness, my family or friends then I become aggressively hostile towards said person.</li>
 </ul>
 
 <h2>🧘🏻‍♂️ Fun facts about me 🧘🏻‍♂️</h2>
