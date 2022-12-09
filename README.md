@@ -38,7 +38,7 @@ I am a creative coder who is always learning new ways to make complex problems i
   <li>I have a alter-ego called <a href="https://soundcloud.com/dejagatsby">Déjà Gatsby</a> who is my creative outlet for music.</li>
   <li>Quotes I live by:</li>
   <ul>
-    <li>Love many, trust few and do no wrong to others unless done upon you.</li>
+    <li>Love many trust few</li>
     <li>If you are the smartest person in the room, then you are in the wrong room.</li>
     <li>Work smart not hard but don't confuse smart with lazy.</li>
   </ul>
