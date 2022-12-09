@@ -57,7 +57,7 @@ Once I matriculated in 2016, I was accepted into the University of Johannesburg 
 
 In 2022 I took my official gap year and started freelancing my software skills to different people where I was shortly chosen by [RIC](http://ricgroup.net/) to work solo on the [BGO Tool](https://github.com/littlevegasdavids/RIC-BGO-Tool).
   
-I then moved onto my first passion project [Shop Emporium](https://github.com/littlevegasdavids/Shop-Emporium) where I created an ecommerce shop from scratch for Emporium of Curiosity.
+I then moved onto my first passion project [Shop Emporium](https://github.com/littlevegasdavids/Shop-Emporium) where I created an ecommerce shop from scratch for [Emporium of Curiosity](https://www.instagram.com/emporiumofcuriosity/).
   
 In December of 2022 I passed my last subject at the University of Pretoria which marked the completion of my undergraduate BSc Computer Science degree.
 </details>
