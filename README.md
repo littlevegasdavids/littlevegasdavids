@@ -60,4 +60,6 @@ In 2022 I took my official gap year and started freelancing my software skills t
 I then moved onto my first passion project [Shop Emporium](https://github.com/littlevegasdavids/Shop-Emporium) where I created an ecommerce shop from scratch for [Emporium of Curiosity](https://www.instagram.com/emporiumofcuriosity/).
   
 In December of 2022 I passed my last subject at the University of Pretoria which marked the completion of my undergraduate BSc Computer Science degree.
+  
+In April 2023 I moved to Cape Town and joined a 6 month Software Engineer graduate program at [SovTech](https://www.sovtech.co.za/)
 </details>
