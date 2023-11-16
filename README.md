@@ -5,6 +5,7 @@
 I am a creative coder who is always learning new ways to make complex problems into simple solutions. 
 
 <h2>⚔️ Lanuages and Tools ⚔️</h2>
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -15,6 +16,7 @@ I am a creative coder who is always learning new ways to make complex problems i
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -35,10 +37,10 @@ I am a creative coder who is always learning new ways to make complex problems i
   <li>I am a film nerd and film encyclopaedia. My favourite films are Memento, Night Crawler and Sicario. My favourite actor is Jake Gyllenhaal.</li>
   <li>I am a über-fan of Survivor. I will Outwit, Outplay and Outlast one day🔥.</li>
   <li>I love a good party and festival. Work hard and play harder, life's too short to not have a good time with the homies.</li>
-  <li>I have a alter-ego called <a href="https://soundcloud.com/dejagatsby">Déjà Gatsby</a> who is my creative outlet for music.</li>
+  <li>I have a alter-ego called <a href="https://www.thesamegatsby.com">Déjà Gatsby</a> who is my creative outlet for music.</li>
   <li>Quotes I live by:</li>
   <ul>
-    <li>Love many trust few</li>
+    <li>Love many, trust few</li>
     <li>If you are the smartest person in the room, then you are in the wrong room.</li>
     <li>Work smart not hard but don't confuse smart with lazy.</li>
   </ul>
@@ -61,5 +63,5 @@ I then moved onto my first passion project [Shop Emporium](https://github.com/li
   
 In December of 2022 I passed my last subject at the University of Pretoria which marked the completion of my undergraduate BSc Computer Science degree.
   
-In April 2023 I moved to Cape Town and joined a 6 month Software Engineer graduate program at [SovTech](https://www.sovtech.co.za/)
+In April 2023 I moved to Cape Town and joined a 6 month Software Engineer graduate program at [SovTech](https://www.sovtech.co.za/). In October 2023 I got promoted to Junior Software Developer at SovTech.
 </details>
