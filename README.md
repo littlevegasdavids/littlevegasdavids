@@ -35,7 +35,6 @@ I am a creative coder who is always learning new ways to turn complex problems i
   <li>I am patient and grounded individual who deals with people in a very diplomatic way.</li>
 </ul>
 
-
 <h2>🧘🏻‍♂️ Fun facts about me 🧘🏻‍♂️</h2>
 <ul>
   <li>I am a super fan of Survivor🔥 - the greatest game and reality show ever made.</li>
@@ -50,8 +49,6 @@ I am a creative coder who is always learning new ways to turn complex problems i
     <li>If you are the smartest person in the room, then you are in the wrong room.</li>
   </ul>
 </ul>
-
-
 
 <details>
   <summary><h3>🏞️ My Coding Journey 🏞️</h3></summary>
@@ -69,7 +66,7 @@ I then moved onto my first passion project [Shop Emporium](https://github.com/li
   
 In December 2022 I graduated as a Bachelor of Science in Computer Science.
   
-In April 2023 I moved to Cape Town and joined a 6 month Software Engineer graduate program at [SovTech](https://www.sovtech.co.za/). In October 2023 I got promoted to Junior Software Developer at SovTech. 
+In April 2023 I moved to Cape Town and joined a 6 month Software Engineer graduate program at [Scrums.com](https://www.scrums.com/). In October 2023 I got promoted to Junior Software Developer at SovTech. 
 
 In June 2024 I passed the exam for the AWS Certified Developer - Associate and got my first [certificate](https://www.credly.com/badges/cc31cf30-d9ab-4160-bdff-f92dae635cea/public_url). In September 2024 I was promoted to Mid-Level Software Engineer 3.
 </details>
