@@ -4,7 +4,7 @@
 
 I am a creative coder who is always learning new ways to turn complex problems into simple solutions. 
 
-<h2>⚔️ Lanuages and Tools ⚔️</h2>
+<h2>⚔️ Languages and Tools ⚔️</h2>
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -35,6 +35,7 @@ I am a creative coder who is always learning new ways to turn complex problems i
   <li>I am patient and grounded individual who deals with people in a very diplomatic way.</li>
 </ul>
 
+
 <h2>🧘🏻‍♂️ Fun facts about me 🧘🏻‍♂️</h2>
 <ul>
   <li>I am a super fan of Survivor🔥 - the greatest game and reality show ever made.</li>
@@ -49,7 +50,8 @@ I am a creative coder who is always learning new ways to turn complex problems i
     <li>If you are the smartest person in the room, then you are in the wrong room.</li>
   </ul>
 </ul>
-</details>
+
+
 
 <details>
   <summary><h3>🏞️ My Coding Journey 🏞️</h3></summary>
@@ -65,7 +67,7 @@ In 2022 I took my official gap year and started freelancing my software skills. 
   
 I then moved onto my first passion project [Shop Emporium](https://github.com/littlevegasdavids/Shop-Emporium) where I created an ecommerce shop from scratch for [Emporium of Curiosity](https://www.instagram.com/emporiumofcuriosity/).
   
-In December 2022 I graduated as a Bacheolor of Science in Computer Science.
+In December 2022 I graduated as a Bachelor of Science in Computer Science.
   
 In April 2023 I moved to Cape Town and joined a 6 month Software Engineer graduate program at [SovTech](https://www.sovtech.co.za/). In October 2023 I got promoted to Junior Software Developer at SovTech. 
 
